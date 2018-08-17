@@ -54,9 +54,9 @@ COURSE NAME
 
 LOREM IPSUM DOLOR SIT AMET
 
-![image alt text]({{ site.url }}/public/i3JFInw6xVox60dsnP7iNA_img_0.png)
+![image alt text]({{ site.url }}/gravity-now/public/i3JFInw6xVox60dsnP7iNA_img_0.png)
 
-# ![image alt text]({{ site.url }}/public/i3JFInw6xVox60dsnP7iNA_img_1.jpg)
+# ![image alt text]({{ site.url }}/gravity-now/public/i3JFInw6xVox60dsnP7iNA_img_1.jpg)
 
 # Introduction
 
