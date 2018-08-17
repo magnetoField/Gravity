@@ -9,8 +9,8 @@
 title: R4C60N
 email: rachan@interia.pl
 description: Free speach
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://magnetofield.github.io/gravity-now" # the base hostname & protocol for your site
+baseurl: "/gravity-now" # the subpath of your site, e.g. /blog
+url: "https://magnetofield.github.io" # the base hostname & protocol for your site
 twitter_username: rachan
 github_username:  magnetofield
 paginate: 5
